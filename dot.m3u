@@ -13,14 +13,6 @@ http://op-flashcon-digdayasd-1.dens.tv/s/s28/index.m3u8
 http://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
 http://op-flashcon-digdayasd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV DIGITAL" group-logo="" tvg-logo="", SAUDI TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=6603&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV DIGITAL" group-logo="" tvg-logo="", ROTANA MUSIC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=6669&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TV DIGITAL" group-logo="" tvg-logo="", TV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -1855,6 +1847,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h225/04.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-group1-densxvisionhd-1.dens.tv/h/h203/04.m3u8
 
+
+
 ---------------------------------------------------------------------------------------------
 
 
@@ -2963,6 +2957,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=204
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+
 
 ----------------------------------------------------------------------------------------------
 
