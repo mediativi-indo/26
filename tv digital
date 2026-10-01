@@ -15,11 +15,11 @@ http://op-flashcon-digdayasd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TV DIGITAL" group-logo="" tvg-logo="", SAUDI TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://procdnnet.eu:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=6603&extension=ts
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=6603&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TV DIGITAL" group-logo="" tvg-logo="", ROTANA MUSIC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://procdnnet.eu:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=6669&extension=ts
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=6669&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TV DIGITAL" group-logo="" tvg-logo="", TV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
