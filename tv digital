@@ -2965,3 +2965,1274 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 ----------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45462&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", UFC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=825538&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", WWE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45462&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", TNT SPORT 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1905818&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", TNT SPORT 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1905814&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", TNT SPORT 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1905811&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", TNT SPORT 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1905808&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282765&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282764&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282763&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282762&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282761&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282760&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ZIGGO SPORT 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1282759&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", FOX SPORT PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1972967&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", EURO SPORT 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2139023&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", EURO SPORT 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2139022&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", NBC GOLF HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45532&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SK GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:98:9F:0A&stream=1981105&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", GOLF CHANNEL HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45554&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OLAHRAGA", ARENA ADRENALIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1900186&extension=ts&play_token=EvJsV2vMK8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ARENA TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1940257&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT TENNIS SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1454231&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT TENNIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692432&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SUPER TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692386&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", CHANNEL TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", TENNIS HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45474&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", TENNIS CHANNEL HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=811667&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT+ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1612600&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=411440&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT UNO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692391&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692440&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT MIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1964156&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692434&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692418&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692427&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT MOTOGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692421&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692424&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SKY SPORT CALCIO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692415&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", RAI SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=692382&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SPORT TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=107437&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=148671&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=148670&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SPORT TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=148669&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SPORT TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=148668&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", SPORT TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=148667&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", FOX SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79290&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", FOX SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79289&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", FOX SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79288&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", WOLRD POKER TOUR HD US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=806920&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", DAZN BILLIARD TV SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1696660&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", NBA TV PH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2033793&extension=ts&play_token=xRkEtyGwvO
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", CBS SPORT NETWORK US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45601&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", NBC SPORT NETWORK US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=234677&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", DAZN 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2139027&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", DAZN 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2139026&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2139025&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", DAZN LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2139024&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", DIRECTV SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=656326&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV OLAHRAGA" group-logo="" tvg-logo="", ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45579&extension=ts
+
+
+============================================================================================================================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV HIBURAN", MAKKAH LIVE
+http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV HIBURAN", MADINAH LIVE
+http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="TV HIBURAN", STUDIO UNIVERSAL
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="TV HIBURAN", STAR MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="TV HIBURAN", STAR GOLD
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="TV HIBURAN", COLORS
+http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 group-title="TV HIBURAN" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",ZEE CINEMA
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 group-title="TV HIBURAN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",ZEE
+http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" tvg-url="" tvg-logo="https://i.ibb.co.com/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", &FLIX
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=13341&deviceMac=00:1A:79:07:07:84
+#http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=13341&deviceMac=00:1A:79:17:BF:CE
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh7bccs/Star-Movies.jpg" group-title="TV HIBURAN", STAR MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HKyqNsW/STAR-MOVIES-SELECT.jpg" group-title="TV HIBURAN", STAR MOVIES SELECT
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
+#http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01:5D
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", AMC
+http://tv.cloudcdn.me:80/live.ts?channelId=46795&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", SYFY
+http://tv.cloudcdn.me:80/live.ts?channelId=46808&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", TNT
+http://tv.cloudcdn.me:80/live.ts?channelId=46809&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", TBS
+http://tv.cloudcdn.me:80/live.ts?channelId=126799&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", LIFETIME MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=126749&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", TCM MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=126800&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", 5 STAR MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=126717&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", ABC SPARK
+http://tv.cloudcdn.me:80/live.ts?channelId=126718&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", ACTION MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKh1xsn/Picsart-23-06-13-13-38-01-268.jpg" group-title="TV HIBURAN", THRILLER MAX
+http://tv.cloudcdn.me:80/live.ts?channelId=126804&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cinemax.png" group-title="TV HIBURAN", CINEMAX
+http://31.43.191.125:8080/restream/restream/34355
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", BOO
+http://tv.cloudcdn.me/live.ts?channelId=133064&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HBO
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HBO HITS
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HBO SIGNATURE
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HBO FAMILY
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/rP1bUsQ.png",CINEMAX
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34355
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HITS NOW
+http://tv.cloudcdn.me/live.ts?channelId=132157&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HITS MOVIES
+http://tv.cloudcdn.me/live.ts?channelId=132162&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", HITS
+http://tv.cloudcdn.me/live.ts?channelId=93767&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TVN MOVIES
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", AXN
+http://tv.cloudcdn.me/live.ts?channelId=93746&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", THRILL
+http://tv.cloudcdn.me/live.ts?channelId=133103&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", ROCK ACTION
+http://tv.cloudcdn.me/live.ts?channelId=133042&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", ROCK ENTERTAINMENT
+http://tv.cloudcdn.me/live.ts?channelId=133043&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", DISCOVERY
+http://tv.cloudcdn.me/live.ts?channelId=132159&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", CRIME INVESTIGATION
+http://tv.cloudcdn.me/live.ts?channelId=132158&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TVS
+http://tv.cloudcdn.me/live.ts?channelId=132173&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", OKEY
+http://tv.cloudcdn.me/live.ts?channelId=93792&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TV 1
+http://tv.cloudcdn.me/live.ts?channelId=93773&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TV 2
+http://tv.cloudcdn.me/live.ts?channelId=93774&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TV 3
+http://tv.cloudcdn.me/live.ts?channelId=93776&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", TV 9
+http://tv.cloudcdn.me/live.ts?channelId=93777&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", ALHIJRAH
+http://tv.cloudcdn.me/live.ts?channelId=93778&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", NTV7
+http://tv.cloudcdn.me/live.ts?channelId=93771&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", RANIA
+http://tv.cloudcdn.me/live.ts?channelId=132151&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", RIA
+http://tv.cloudcdn.me/live.ts?channelId=132152&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", VAANAVIL
+http://tv.cloudcdn.me/live.ts?channelId=132154&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", BERITA RTM
+http://tv.cloudcdn.me/live.ts?channelId=133036&uid=13341&deviceMac=00:1A:79:07:07:84
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", AOD (MLY) 
+http://cdn.qd.je/163189.php?id=aod
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", Astro欢喜台 (MLY) 
+http://cdn.qd.je/163189.php?id=hxt
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", 八度空间 (MLY) 
+http://cdn.qd.je/163189.php?id=8tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", IQIYI.爱奇艺 (MLY) 
+http://cdn.qd.je/163189.php?id=iqiyi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", 8TV.八度空间 (MLY) 
+http://cdn6.123.rr.kg/163189/8tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", CNA (SGP)
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", CH5 (SGP)
+http://cdn6.123.rr.kg/163189/ch5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", CH8 (SGP)
+http://cdn6.123.rr.kg/163189/ch8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="TV HIBURAN", CHU (SGP) 
+http://cdn6.123.rr.kg/163189/chu
+------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815487&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815486&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815485&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815484&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815483&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815482&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815481&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815480&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC IRAQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815479&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815476&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC MASR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815478&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MBC MASR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=815477&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO TEN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275554&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO NOW MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275553&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275551&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275550&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275549&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275548&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275547&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1275546&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA GREATS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79466&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79465&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA PREMIERE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79464&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA SCI-FI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79463&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA THRILLER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79461&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79471&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79470&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SKY CINEMA DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=79468&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", TALKING PICTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1014220&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", GREAT ACTION MONIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=887936&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SOLO ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:98:9F:0A&stream=2111740&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SOLO HOROR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:98:9F:0A&stream=2114901&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SOLO MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:98:9F:0A&stream=2111744&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SOLO POPUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:98:9F:0A&stream=2114900&extension=ts&play_token=8jH2AL7lYF
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45442&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", AMC SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547201&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SYFY SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547203&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", TCM SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547206&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", XTRM SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=174330&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", DARK SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547194&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", AXN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547181&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", STAR CHANNEL SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547177&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", STAR CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=107601&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90786&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90787&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926492&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO EXTREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926493&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90785&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=25518&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90301&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90784&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90299&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=25517&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926473&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926475&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926444&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926490&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926443&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=926474&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", FOX SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1547177&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", FOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=107601&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45445&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", AMC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=534381&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45451&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", FXX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45449&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="",  FXX WEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=91853&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45500&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095583&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095582&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095581&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095580&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095579&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095578&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095577&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095576&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095575&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", PARAMOUNT+ 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1095574&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924705&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924706&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924707&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924708&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924709&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924710&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HBO MAX 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=924711&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", SYFY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45476&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MGM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=91886&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90968&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", TCM WEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=1813852&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", LIFETIME MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45456&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", E! ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=45584&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", MILITARY HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=91864&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=90938&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV HIBURAN" group-logo="" tvg-logo="", HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B6:F1:38&stream=2033812&extension=ts&play_token=h8sCporQPH
+
+#EXTINF:-1 tvg-id="HBO HD" group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34354
+
+#EXTINF:-1 tvg-id="HBO Hits HD" group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34350
+
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34348
+
+#EXTINF:-1 tvg-id="HBO Signature HD" group-title="TV HIBURAN" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34353
+
+
+-------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",TNT SPORTS 1 
+http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",TNT SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",TNT SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",TNT SPORTS 4
+http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",TNT SPORTS 5
+http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT+
+http://tv.cloudcdn.me:80/live.ts?channelId=36132&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT MIX
+http://tv.cloudcdn.me:80/live.ts?channelId=32489&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT ACTION
+http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT F1
+http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT TENNIS
+http://tv.cloudcdn.me:80/live.ts?channelId=132530&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT GOLF
+http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT RACING
+http://tv.cloudcdn.me:80/live.ts?channelId=132131&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT MAIN EVENT
+http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", STARZ PLAY SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", STARZ PLAY SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", STARZ PLAY SPORT 3
+http://tv.cloudcdn.me:80/live.ts?channelId=132529&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", EURO SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=272&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", EURO SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SPORT TV 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128709&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SPORT TV 2
+http://tv.cloudcdn.me:80/live.ts?channelId=102423&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", AMAZON PRIME SPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=128779&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", PREMIER LEAGUE TV
+http://tv.cloudcdn.me:80/live.ts?channelId=61668&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", PREMIER SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=91158&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", PREMIER SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=91159&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://iili.io/Jhkb4NS.png" group-title="CLOUDCDN SPORT",TSN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://iili.io/JhkbsVe.png" group-title="CLOUDCDN SPORT",TSN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://iili.io/Jhkbix9.png" group-title="CLOUDCDN SPORT",TSN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://iili.io/Jhkb6D7.png" group-title="CLOUDCDN SPORT",TSN 4
+http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://iili.io/JhkbLiu.png" group-title="CLOUDCDN SPORT",TSN 5
+http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", SUKAN RTM
+http://tv.cloudcdn.me/live.ts?channelId=107253&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", SPOTV 1
+http://tv.cloudcdn.me/live.ts?channelId=133045&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", SPOTV 2
+http://tv.cloudcdn.me/live.ts?channelId=133046&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", BEIN SPORT 1
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", BEIN SPORT 2
+http://tv.cloudcdn.me/live.ts?channelId=133114&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", BEIN SPORT 3
+http://tv.cloudcdn.me/live.ts?channelId=133115&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO SPORT+
+http://tv.cloudcdn.me/live.ts?channelId=133122&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO FOOTBALL
+http://tv.cloudcdn.me/live.ts?channelId=93742&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO GRANDSTAND
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO PREMIER LEAGUE 1
+http://tv.cloudcdn.me/live.ts?channelId=93739&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO PREMIER LEAGUE 2
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO ARENA 1
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO ARENA 2
+http://tv.cloudcdn.me/live.ts?channelId=132148&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO ARENA BOLA 1
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO ARENA BOLA 2
+http://tv.cloudcdn.me/live.ts?channelId=133063&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO BADMINTON 1
+http://tv.cloudcdn.me/live.ts?channelId=133049&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO BADMINTON 2
+http://tv.cloudcdn.me/live.ts?channelId=133050&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CLOUDCDN SPORT", ASTRO GOLF
+http://tv.cloudcdn.me/live.ts?channelId=133089&uid=13341&deviceMac=00:1A:79:07:07:84
+
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://rohitrehan.github.io/iptv/logos/bein-sports-1.png" group-title="CLOUDCDN SPORT",BEIN SPORT 1 ENG
+http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://rohitrehan.github.io/iptv/logos/bein-sports-1.png" group-title="CLOUDCDN SPORT",BEIN SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125427&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://rohitrehan.github.io/iptv/logos/bein-sports-3.png" group-title="CLOUDCDN SPORT",BEIN SPORT 3 ENG
+http://tv.cloudcdn.me:80/live.ts?channelId=125428&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",Star Sports 1 
+http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",SKY SPORTS F1 
+http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",PTV SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="CLOUDCDN SPORT",TEN SPORTS HD
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",Star Sports Premier 
+http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",FOX SPORT 502
+http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",SKY SPORTS TENNIS
+http://tv.cloudcdn.me:80/live.ts?channelId=132530&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",ASTRO ARENA
+http://tv.cloudcdn.me:80/live.ts?channelId=93729&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",SPORT DIGITAL FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=125661&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125632&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",SPORTS 1+
+http://tv.cloudcdn.me:80/live.ts?channelId=125633&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.pn" group-title="CLOUDCDN SPORT",EURO SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125596&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.pn" group-title="CLOUDCDN SPORT",EURO SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125597&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="CLOUDCDN SPORT",DAZN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125592&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVPdG-EC9bCbuyk-ERVyZErVq2U2Fm0L_Hg&s" group-title="CLOUDCDN SPORT",DAZN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125593&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", DAZN FAST+
+http://tv.cloudcdn.me:80/live.ts?channelId=128812&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", DAZN CHAMPIONSHIP
+http://tv.cloudcdn.me:80/live.ts?channelId=132806&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", DAZN RISE
+http://tv.cloudcdn.me:80/live.ts?channelId=134137&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",SONY SPORTS 1 
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",SONY SPORTS 2 
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",SONY SPORTS 3 
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",SONY SPORTS 4 
+http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="CLOUDCDN SPORT",SONY SPORTS 5
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="CLOUDCDN SPORT",SONY LIV
+http://tv.cloudcdn.me:80/live.ts?channelId=128699&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",STAR SPORTS 1 
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",STAR SPORTS 2 
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",STAR SPORTS 3 
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="CLOUDCDN SPORT",STAR SPORTS SELECT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="CLOUDCDN SPORT",STAR SPORTS SELECT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="CLOUDCDN SPORT",DAZN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVPdG-EC9bCbuyk-ERVyZErVq2U2Fm0L_Hg&s" group-title="CLOUDCDN SPORT",DAZN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125425&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="CLOUDCDN SPORT",TEN SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="CLOUDCDN SPORT",T SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",PTV SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=13341&deviceMac=00:1A:79:07:07:84
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 1
+http://tv.cloudcdn.me:80/live.ts?channelId=124651&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 2
+http://tv.cloudcdn.me:80/live.ts?channelId=124652&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 3
+http://tv.cloudcdn.me:80/live.ts?channelId=124653&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 4
+http://tv.cloudcdn.me:80/live.ts?channelId=124654&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 5
+http://tv.cloudcdn.me:80/live.ts?channelId=124655&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 6
+http://tv.cloudcdn.me:80/live.ts?channelId=124656&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 7
+http://tv.cloudcdn.me:80/live.ts?channelId=124657&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 8
+http://tv.cloudcdn.me:80/live.ts?channelId=125083&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT AR 9
+http://tv.cloudcdn.me:80/live.ts?channelId=125084&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT FR 1
+http://tv.cloudcdn.me:80/live.ts?channelId=124660&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT FR 2
+http://tv.cloudcdn.me:80/live.ts?channelId=124661&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT FR 3
+http://tv.cloudcdn.me:80/live.ts?channelId=124662&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 4
+http://tv.cloudcdn.me:80/live.ts?channelId=124666&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 5
+http://tv.cloudcdn.me:80/live.ts?channelId=124667&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 6
+http://tv.cloudcdn.me:80/live.ts?channelId=124668&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 7
+http://tv.cloudcdn.me:80/live.ts?channelId=124669&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 8
+http://tv.cloudcdn.me:80/live.ts?channelId=124670&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 9
+http://tv.cloudcdn.me:80/live.ts?channelId=124671&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT MAX 10
+http://tv.cloudcdn.me:80/live.ts?channelId=124672&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", FOX SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=134101&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", FOX SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=134102&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", FOX SPORT MX
+http://tv.cloudcdn.me:80/live.ts?channelId=128701&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ESPN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=128704&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ESPN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ESPN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=132808&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", UNITE8 SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=134096&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", UNITE8 SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=134097&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", YES SPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=126199&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=126123&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT 5
+http://tv.cloudcdn.me:80/live.ts?channelId=126127&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT 6
+http://tv.cloudcdn.me:80/live.ts?channelId=126128&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT 7
+http://tv.cloudcdn.me:80/live.ts?channelId=126129&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BEIN SPORT 8
+http://tv.cloudcdn.me:80/live.ts?channelId=126130&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", TV2 SPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=129826&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", TV2 SPORT 2
+http://tv.cloudcdn.me:80/live.ts?channelId=129827&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ORF SPORT+
+http://tv.cloudcdn.me:80/live.ts?channelId=132480&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT TOP EVENT
+http://tv.cloudcdn.me:80/live.ts?channelId=125631&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=125660&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT BUNDES LIGA
+http://tv.cloudcdn.me:80/live.ts?channelId=125649&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT F1
+http://tv.cloudcdn.me:80/live.ts?channelId=125740&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT MIX
+http://tv.cloudcdn.me:80/live.ts?channelId=125629&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT GOLF
+http://tv.cloudcdn.me:80/live.ts?channelId=125628&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SKY SPORT TENNIS
+http://tv.cloudcdn.me:80/live.ts?channelId=125630&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", TENNIS CHANNEL
+http://tv.cloudcdn.me:80/live.ts?channelId=132528&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", TENNIS CHANNEL US
+http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CLOUDCDN SPORT",TENNIS
+http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",UFC
+http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",WWE SPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=13341&deviceMac=00:1A:79:07:07:84
+#EXTINF:-1 tvg-id="143" tvg-logo="" group-title="CLOUDCDN SPORT",WWE NETWORK
+http://tv.cloudcdn.me:80/live.ts?channelId=132557&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", WORLD POKER TOUR
+http://tv.cloudcdn.me:80/live.ts?channelId=126197&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ESPORT 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125595&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", EURO SPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=134343&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", D SPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=134116&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", CBC SPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=134108&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 1
+http://tv.cloudcdn.me:80/live.ts?channelId=4228&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 2
+http://tv.cloudcdn.me:80/live.ts?channelId=4229&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 3
+http://tv.cloudcdn.me:80/live.ts?channelId=91051&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 4
+http://tv.cloudcdn.me:80/live.ts?channelId=4231&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 1+1
+http://tv.cloudcdn.me:80/live.ts?channelId=91049&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 2+1
+http://tv.cloudcdn.me:80/live.ts?channelId=91050&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 3+1
+http://tv.cloudcdn.me:80/live.ts?channelId=91052&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ITV 4+1
+http://tv.cloudcdn.me:80/live.ts?channelId=91053&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", STV
+http://tv.cloudcdn.me:80/live.ts?channelId=134103&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", BBC
+http://tv.cloudcdn.me:80/live.ts?channelId=13411&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", SBS
+http://tv.cloudcdn.me:80/live.ts?channelId=134106&uid=13341&deviceMac=00:1A:79:07:07:84
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLOUDCDN SPORT", ORF 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125617&uid=13341&deviceMac=00:1A:79:07:07:84
+
+---------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indonesia", INSERT 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/330-aW5zZXJ0LWNoLXNjdGUzNQ/live.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",MY: astro awani 
+http://31.43.191.125:8080/restream/restream/34574
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",MY: astro famtime
+http://31.43.191.125:8080/restream/restream/34572
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",MY: hits movies 
+http://31.43.191.125:8080/restream/restream/34570
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",MY: tvn movies 
+http://31.43.191.125:8080/restream/restream/34573
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",MY: astro daebak 
+http://31.43.191.125:8080/restream/restream/34568
+#EXTINF:-1 tvg-id="" tvg-name="MY: BOO" tvg-logo="https://docdog.top/logo/countries/malaysia/BOO.jpeg" group-title="Indonesia",MY: BOO
+http://31.43.191.125:8080/restream/restream/34539
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",MY: HBO
+http://31.43.191.125:8080/restream/restream/34571
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO HITS" tvg-logo="https://docdog.top/logo/countries/malaysia/hbohits.png" group-title="Indonesia",MY: HBO HITS
+http://31.43.191.125:8080/restream/restream/34540
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries/malaysia/hbosignature.png" group-title="Indonesia",MY: HBO SIGNATURE
+http://31.43.191.125:8080/restream/restream/34647
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cinemax.png" group-title="Indonesia",IDS: CINEMAX VIP
+http://31.43.191.125:8080/restream/restream/34355
+#EXTINF:-1 tvg-id="" tvg-name="IDS: Galaxy HD" tvg-logo="" group-title="Indonesia",IDS: Galaxy HD
+http://31.43.191.125:8080/restream/restream/34427
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMA WORLD" tvg-logo="" group-title="Indonesia",IDS: CINEMA WORLD
+http://31.43.191.125:8080/restream/restream/34428
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="Indonesia",IDS: HBO
+http://31.43.191.125:8080/restream/restream/34433
+#EXTINF:-1 tvg-id="" tvg-name="IDS: Zee Bioskop VIP" tvg-logo="" group-title="Indonesia",IDS: Zee Bioskop VIP
+http://31.43.191.125:8080/restream/restream/34412
+#EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV" tvg-logo="https://docdog.top/logo/countries/malaysia/spotv.png" group-title="Indonesia",MY: SPOTV
+http://31.43.191.125:8080/restream/restream/34638
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA" tvg-logo="https://docdog.top/logo/countries/malaysia/astroarena.png" group-title="Indonesia",MY: ASTRO ARENA
+http://31.43.191.125:8080/restream/restream/34608
+#EXTINF:-1 tvg-id="" tvg-name="MY: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports.png" group-title="Indonesia",MY: BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/34648
+#EXTINF:-1 tvg-id="" tvg-name="MY: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/malaysia/beinsports.png" group-title="Indonesia",MY: BEIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/34632
+#EXTINF:-1 tvg-id="" tvg-name="MY: EUROSPORT" tvg-logo="https://docdog.top/logo/countries/malaysia/eurosport.png" group-title="Indonesia",MY: EUROSPORT
+http://31.43.191.125:8080/restream/restream/34611
+#EXTINF:-1 tvg-id="" tvg-name="MY: WWE" tvg-logo="https://docdog.top/logo/countries/malaysia/wwenetwork.png" group-title="Indonesia",MY: WWE
+http://31.43.191.125:8080/restream/restream/34612
+#EXTINF:-1 tvg-id="" tvg-name="MY: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/malaysia/golfchannel.png" group-title="Indonesia",MY: GOLF CHANNEL
+http://31.43.191.125:8080/restream/restream/34613
+#EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="Indonesia",IDS: SPOTV VIP
+http://31.43.191.125:8080/restream/restream/34406
+#EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="Indonesia",IDS: SPOTV 2 VIP
+http://31.43.191.125:8080/restream/restream/34405
+#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="Indonesia",IDS: KOMPAS TV VIP
+http://31.43.191.125:8080/restream/restream/34332
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="Indonesia",IDS: INEWS VIP
+http://31.43.191.125:8080/restream/restream/34335
+#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="Indonesia",IDS: BERITASATU VIP
+http://31.43.191.125:8080/restream/restream/34334
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="Indonesia",IDS: INDOSIAR VIP
+http://31.43.191.125:8080/restream/restream/34327
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="Indonesia",IDS: RCTI VIP
+http://31.43.191.125:8080/restream/restream/34322
+#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="Indonesia",IDS: MNC TV VIP
+http://31.43.191.125:8080/restream/restream/34326
+
+#EXTINF:-1 group-title="Indonesia" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" group-title="Indonesia",GTV ᴴᴰ (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="Indonesia",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+####KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.drm?id=782
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="Indonesia",IDS: TRANS TV VIP
+http://31.43.191.125:8080/restream/restream/34324
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="Indonesia",IDS: TRANS 7 VIP
+http://31.43.191.125:8080/restream/restream/34325
